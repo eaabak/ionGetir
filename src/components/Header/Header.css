@@ -1,0 +1,20 @@
+@import url(//db.onlinewebfonts.com/c/7147aad6f91d29367144753601a8328b?family=Cocon);
+
+.header {
+    --background: #5d3ebc;
+}
+
+.title {
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Cocon;
+    letter-spacing: normal;
+    color: #ffd300;
+}
+.label {
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Cocon;
+    letter-spacing: normal;
+    color: #f4f2fd;
+}

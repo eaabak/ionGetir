@@ -1,0 +1,33 @@
+@import url(//db.onlinewebfonts.com/c/7147aad6f91d29367144753601a8328b?family=Cocon);
+
+.card-water {
+  box-shadow: none !important;
+  border: 2px solid #f3f0fe;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+.label-water {
+  padding-bottom: 10px;
+}
+.h4-water {
+  text-align: center;
+  font-family: Cocon;
+  color: #5d3ebc;
+}
+.p-water {
+  font-family: Cocon;
+  text-align: center;
+}
+.btn-water {
+  position: absolute;
+  top: -5px;
+  right: 15px;
+  z-index: 1;
+  --background: white;
+  font-size: xx-small;
+}
+
+.icon-water {
+  color: #5d3ebc;
+  font-size: 20px;
+}

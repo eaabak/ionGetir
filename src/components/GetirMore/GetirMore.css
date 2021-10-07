@@ -1,0 +1,28 @@
+@import url(//db.onlinewebfonts.com/c/7147aad6f91d29367144753601a8328b?family=Cocon);
+.grid-more {
+  padding-right: 15px;
+}
+.card-more {
+  width: 100%;
+  border-radius: 7px;
+  display: flex;
+  padding-top: 5px;
+}
+.cat-p {
+  padding-left: 18px;
+  font-size: 10px;
+  font-weight: 700;
+  font-family: Cocon;
+  color: #1a1a1aab;
+  letter-spacing: normal;
+}
+.card-img-more {
+  object-fit: cover;
+  width: 50px;
+}
+h3 {
+    color: black;
+}
+.p-more {
+  color: #1e1e1e6b;
+}

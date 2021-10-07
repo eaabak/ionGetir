@@ -1,0 +1,34 @@
+.btn-app {
+  --color-selected: #5d3ebc;
+}
+
+.search-btn {
+  margin-right: 30px;
+}
+
+.profile-btn {
+  margin-left: 30px;
+}
+
+.btn-app::before {
+  display: block;
+  content: "";
+  margin: 0 auto;
+  width: 40px;
+  height: 4px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.btn-app.tab-selected::before {
+  background-color: #5d3ebc;
+}
+
+.fab-btn {
+  --background: #5d3ebc;
+  --border-color: white;
+  --border-width: 2px;
+  --border-style: solid;
+}
+.fab-icon {
+  color: #ffd300;
+}

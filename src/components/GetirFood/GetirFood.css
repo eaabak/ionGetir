@@ -1,0 +1,84 @@
+@import url(//db.onlinewebfonts.com/c/7147aad6f91d29367144753601a8328b?family=Cocon);
+
+.btns-food {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 75%;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 7px;
+  background: white;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 1px 2px 14px -2px rgb(-20 -31 -77 / 22%);
+}
+
+.border-between {
+  height: 20px;
+  border-left: 2px solid #cccccc45;
+}
+
+.a-tag {
+  color: #5d3ebc;
+  font-family: Cocon;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.icon {
+  padding-right: 10px;
+}
+.ionLabel {
+  font-size: 12px;
+  color: rgba(128, 128, 128, 0.801);
+  font-family: Cocon;
+}
+
+.list {
+  display: inline;
+}
+
+.icon-list-1 {
+  color: #404040;
+}
+
+.icon-list-2 {
+  color: #5d3ebc;
+}
+.res-item {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.res-thumbnail {
+  --size: 60px;
+}
+.res-img {
+  border-radius: 6px;
+  object-fit: cover;
+}
+.res-camera {
+  position: absolute;
+  width: 31px;
+  height: 32px;
+  z-index: 1;
+  bottom: 3px;
+  left: -3px;
+  object-fit: cover;
+}
+.res-label {
+  padding-left: 10px;
+}
+h3 {
+  font-family: Cocon;
+}
+.p-food {
+  font-family: Cocon;
+}
+.res-courier {
+  margin-bottom: -3px;
+}
+.res-icon {
+  color: #5d3ebc83;
+}

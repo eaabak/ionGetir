@@ -1,0 +1,7 @@
+{
+  "name": "ionGetir",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

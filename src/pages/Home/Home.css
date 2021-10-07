@@ -1,0 +1,57 @@
+@import url(//db.onlinewebfonts.com/c/7147aad6f91d29367144753601a8328b?family=Cocon);
+.content {
+    --background: #fafafa !important;
+
+}
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 22%;
+    z-index: 10;
+}
+
+.btn-1 {
+    font-size: 12px;
+    --background: #5d3ebc;
+    --background-activated: white;
+    --color: #5d3ebc;
+    --color-activated: white;
+    --border-radius: 5px;
+}
+
+.btn-2 {
+    font-size: 12px;
+    --background: white;
+    --background-activated: white;
+    --color: #5d3ebc;
+    --color-activated: #5d3ebc;
+    --border-radius: 5px;
+    --box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+
+}
+
+.txt-img {
+    width: 70%;
+}
+.txt {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Cocon;
+    letter-spacing: normal;
+    color: #ffd300;
+}
+.txt-color {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Cocon;
+    letter-spacing: normal;
+    color: #f4f2fd;
+}
+
+.p-tag {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Cocon;
+    letter-spacing: normal;
+}

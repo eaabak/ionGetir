@@ -1,0 +1,60 @@
+.bg-color {
+    background: #ffd32c;
+    position: relative;
+}
+
+.toolbar {
+    width: 80%;
+    border-top-right-radius: 65px 66px;
+    border-bottom-right-radius: 65px 66px;
+}
+
+.border {
+    position: fixed;
+    height: 20px;
+    border-left: 2px solid #cccccc45;
+}
+
+span {
+    margin-left: 10px;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 0.16px;
+    font-weight: 600;
+    color: rgb(82, 82, 82);
+}
+
+.spn-address {
+    color: #697488a1;
+}
+
+.time {
+    position: absolute;
+    right: 10px;
+    padding-top: 30px;
+    padding-right: 3px;
+    color: #4e4898;
+}
+
+.eta {
+    position: absolute;
+    right: 10px;
+    padding-top: 9px;
+    padding-right: 9px;
+    color: #4e4898;
+}
+
+.eta-1 {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.min-1 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.min-2 {
+    font-weight: bold;
+    font-size: 15px;
+}
