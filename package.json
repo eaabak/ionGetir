@@ -2,6 +2,8 @@
   "name": "ionGetir",
   "version": "0.0.1",
   "private": true,
+  "author": "Alan",
+  "homepage": "https://github.com/Alan4747",
   "dependencies": {
     "@capacitor/app": "1.0.3",
     "@capacitor/core": "3.2.4",
@@ -67,5 +69,5 @@
   "devDependencies": {
     "@capacitor/cli": "3.2.4"
   },
-  "description": "An Ionic project"
+  "description": "This project create by @alan4747"
 }
