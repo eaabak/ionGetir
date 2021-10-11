@@ -1,10 +1,10 @@
 <h1 align="center">
 <img  width="350" src="https://www.birnoktabir.com/wp-content/uploads/2018/01/getir-290118.jpg" alt="ionTok">
     <br>
-    TikTok Clone
+    Getir Clone
 </h1>
 
-> Note: Getir clone was made with the latest version of ionic framework v6 and ReactJS.
+> Note: <a href="https://play.google.com/store/apps/details?id=com.getir&hl=tr&gl=US">Getir</a> clone was made with the latest version of ionic framework v6 and ReactJS.
 
 ## Preview
 
