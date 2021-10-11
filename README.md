@@ -4,7 +4,7 @@
     TikTok Clone
 </h1>
 
-> Note: TikTok clone was made with the latest version of ionic framework and Angular.
+> Note: Getir clone was made with the latest version of ionic framework v6 and ReactJS.
 
 ## Preview
 
