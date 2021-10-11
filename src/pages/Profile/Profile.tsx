@@ -1,7 +1,7 @@
 import { IonContent, IonIcon, IonItem, IonLabel, IonList, IonPage } from '@ionic/react';
 import './Profile.css';
 import Header from "../../components/Header/Header";
-import { checkmarkCircle, chevronForward, person, location, heart, bagAddSharp, bagSharp, card, lockClosed, notifications, helpCircleOutline, logOutOutline, logOut } from 'ionicons/icons';
+import { checkmarkCircle, chevronForward, person, location, heart, bagSharp, card, lockClosed, notifications, helpCircleOutline, logOutOutline, logOut } from 'ionicons/icons';
 
 const Profile: React.FC = () => {
     return (

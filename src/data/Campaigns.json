@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "camPhoto": "http://cdn.getir.com/misc/60c1be128fef06ec15fd446f_android_en.jpeg",
+    "camHeader": "Get 30 TL discount on your next  Getir order!",
+    "camContent": "On your order over 35 TL, 30 TL discount will be applied."
+  },
+  {
+    "id": 1,
+    "camPhoto": "http://cdn.getir.com/misc/615595d7981aeb1d051c09f3_android_en.jpeg",
+    "camHeader": "Don't miss these discounts!",
+    "camContent": "Don't have to select this promo at 'Check out' screen."
+  },
+  {
+    "id": 2,
+    "camPhoto": "http://cdn.getir.com/misc/615d64ae483f82b89bb7f690_android_en.jpeg",
+    "camHeader": "Don't miss these discounted products!",
+    "camContent": "Don't have to select this promo at 'Check out' screen."
+  },
+  {
+    "id": 3,
+    "camPhoto": "http://cdn.getir.com/misc/5f9d915e86878219e0a39c7f_android_en_1612174824527.jpeg",
+    "camHeader": "20 TL discount special for you! 🎉",
+    "camContent": "To use the promo, you must exceed 120 TL minimum basket size."
+  },
+  {
+    "id": 4,
+    "camPhoto": "http://cdn.getir.com/misc/614190e5c26a22234d735f92_android_en.jpeg",
+    "camHeader": "Get 1 GB data for free!",
+    "camContent": "To use the promo you must add 50 TL worth products to your basket."
+  },
+  {
+    "id": 5,
+    "camPhoto": "http://cdn.getir.com/misc/615d7afe56e796575bc6ed48_android_en.jpeg",
+    "camHeader": "Get Formation Lap Pack for free! 🏎️",
+    "camContent": "To use the promo, you must add Formation Lap Pack product to your basket."
+  },
+  {
+    "id": 6,
+    "camPhoto": "http://cdn.getir.com/misc/61162af62df78d586364233f_android_en.jpeg",
+    "camHeader": "Get Nescafé 3 in 1 (10 ct) for free!",
+    "camContent": "To use the promo, you must add Nescafé 3 in 1 Caramel (10 ct) to your basket."
+  }
+]
