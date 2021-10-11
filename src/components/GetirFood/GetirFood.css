@@ -14,6 +14,11 @@
   margin-right: auto;
   box-shadow: 1px 2px 14px -2px rgb(-20 -31 -77 / 22%);
 }
+.btns-food {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
 
 .border-between {
   height: 20px;
@@ -38,6 +43,7 @@
 
 .list {
   display: inline;
+  z-index: -1;
 }
 
 .icon-list-1 {

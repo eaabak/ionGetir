@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "labelName": "Burger"
+  },
+  {
+    "id": 1,
+    "labelName": "Pizza"
+  },
+  {
+    "id": 2,
+    "labelName": "Baklava"
+  },
+  {
+    "id": 3,
+    "labelName": "Lahmacun"
+  },
+  {
+    "id": 4,
+    "labelName": "Döner"
+  },
+  {
+    "id": 5,
+    "labelName": "Kebap"
+  },
+  {
+    "id": 6,
+    "labelName": "Pide"
+  },
+  {
+    "id": 7,
+    "labelName": "Börek"
+  }
+]

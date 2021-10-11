@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "kitchenName": "Müdavim",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1630916377128_480x300.jpeg"
+  },
+  {
+    "id": 1,
+    "kitchenName": "Favourite local bites",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1629454060840_480x300.jpeg"
+  },
+  {
+    "id": 2,
+    "kitchenName": "Burger",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220348726_480x300.jpeg"
+  },
+  {
+    "id": 3,
+    "kitchenName": "Desserts",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220070791_480x300.jpeg"
+  },
+  {
+    "id": 4,
+    "kitchenName": "Kebab",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220022005_480x300.jpeg"
+  },
+  {
+    "id": 5,
+    "kitchenName": "Pizza",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220083961_480x300.jpeg"
+  },
+  {
+    "id": 6,
+    "kitchenName": "Doner",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220044852_480x300.jpeg"
+  },
+  {
+    "id": 7,
+    "kitchenName": "Chicken",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220124730_480x300.jpeg"
+  },
+  {
+    "id": 8,
+    "kitchenName": "Street Food",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220055422_480x300.jpeg"
+  },
+  {
+    "id": 9,
+    "kitchenName": "Pide",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220107689_480x300.jpeg"
+  },
+  {
+    "id": 10,
+    "kitchenName": "Lahmacun",
+    "kitchenPhoto": "https://cdn.getiryemek.com/cuisines/1619220216772_480x300.jpeg"
+  }
+]

@@ -4,7 +4,14 @@
     --background: #5d3ebc;
 }
 
-.title {
+.title-1 {
+    font-size: 20px;
+    font-family: Cocon;
+    letter-spacing: normal;
+    color: white;
+}
+
+.title-2 {
     font-size: 23px;
     font-weight: bold;
     font-family: Cocon;

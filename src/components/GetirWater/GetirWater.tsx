@@ -10,9 +10,9 @@ const GetirWater: React.FC = () => {
         <div className={"ion-padding-top"}>
             <IonList lines={"none"}>
                 {waters.map((water) => (
-                    <div>
+                    <div key={water.id}>
 
-                        <IonItem style={{ paddingTop: "20px;" }}>
+                        <IonItem>
 
                             <IonCard className={"card-water"}>
                                 <img src={water.waterPhoto} alt="Kuzeyden" />

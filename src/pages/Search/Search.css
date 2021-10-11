@@ -1,0 +1,73 @@
+@import url(//db.onlinewebfonts.com/c/7147aad6f91d29367144753601a8328b?family=Cocon);
+.content {
+  --background: #f8f8f9 !important;
+}
+
+.div-search {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: white;
+  box-shadow: -1px 5px 12px -9px rgb(0 0 0 / 30%);
+}
+.search-icon {
+  color: #5d3ebc;
+  font-size: x-large;
+}
+.search-icon-mic {
+  color: rgba(0, 0, 0, 0.664);
+  font-size: x-large;
+}
+.div-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  color: rgba(0, 0, 0, 0.575);
+  font-weight: 500;
+}
+.trash-icon {
+  font-size: x-large;
+}
+.c-row {
+  background: white;
+  box-shadow: -7px 2px 8px -5px rgb(0 0 0 / 50%);
+  padding: 10px;
+}
+
+.div-labels {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.row-label {
+  padding: 6px;
+  border: 1px solid #d7d8da77;
+  border-radius: 5px;
+  color: #5d3ebc;
+  font-size: 12px;
+  font-weight: 500;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.bg-slides {
+  padding: 15px;
+  background-color: white;
+  box-shadow: -7px 2px 8px -5px rgb(0 0 0 / 50%);
+}
+.slide-img {
+  border-radius: 5px;
+}
+.name-cui {
+  position: absolute;
+  bottom: -7px;
+  z-index: 1;
+  font-size: x-small;
+  color: white;
+  font-family: Cocon;
+}
