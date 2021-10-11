@@ -1,5 +1,5 @@
 <h1 align="center">
-<img  width="350" src="https://sf16-scmcdn-sg.ibytedtos.com/goofy/tiktok/web/node/_next/static/images/logo-whole-c555aa707602e714ec956ac96e9db366.svg" alt="ionTok">
+<img  width="350" src="https://www.birnoktabir.com/wp-content/uploads/2018/01/getir-290118.jpg" alt="ionTok">
     <br>
     TikTok Clone
 </h1>
