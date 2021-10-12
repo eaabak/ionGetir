@@ -1,5 +1,5 @@
 <h1 align="center">
-<img  width="350" src="https://www.birnoktabir.com/wp-content/uploads/2018/01/getir-290118.jpg" alt="ionTok">
+<img  width="350" src="https://www.birnoktabir.com/wp-content/uploads/2018/01/getir-290118.jpg" alt="ionGetir">
     <br>
     Getir Clone
 </h1>
@@ -17,6 +17,10 @@
  <img alt="getir"  title="getir" src="https://res.cloudinary.com/alan4747/image/upload/v1633982588/localhost_8100_campaigns_iPhone_6_7_8_5_clvvu5.png" style=" width: 25%;"/>
  <img alt="getir"  title="getir" src="https://res.cloudinary.com/alan4747/image/upload/v1633982612/localhost_8100_campaigns_iPhone_6_7_8_6_g7gnz8.png" style=" width: 25%;"/>
 </div>
+
+## Demo
+
+https://user-images.githubusercontent.com/9548700/137009920-67e65a3b-0779-40e1-8082-8421f06d486c.mp4
 
 
 ## Running the application locally
